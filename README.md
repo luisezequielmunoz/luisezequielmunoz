@@ -19,7 +19,7 @@
 <h2 align="left">Project Index</h3>
 
 - 📊 **[A/B Testing - Adobe Creative Cloud](https://github.com/luisezequielmunoz/ab-testing-adobe/)** 
-- 🌎 **[KMeans - Unsupervised Learning - Macroeconomics Country Clustering](https://github.com/luisezequielmunoz/KMeans-Country-Clustering-Project)**  
+- 🌎 **[Macroeconomics Country Clustering - Unsupervised Learning - KMeans approach](https://github.com/luisezequielmunoz/KMeans-Country-Clustering-Project)**  
 - 💳 **[Typical Fraud Credit Card Detection - KNN approach](https://github.com/luisezequielmunoz/Fraud-Credit-Card-Project)** 
 - 🗄 **[People Analytics - Absenteeism - Data Cleaning](https://github.com/luisezequielmunoz/People-Analytics-Absenteeism-Data-Cleaning)** 
 
