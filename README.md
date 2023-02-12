@@ -14,14 +14,18 @@
 
 🎥 On the other hand, I really enjoy teaching and connecting with people. For that reason I started my journey as **Data Content Creator**, reaching up to **15.000 followers** on instagram and currently developing my YouTube channel. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
 
-<h3 align="center">¿Hablas español? SIGUEME EN INSTAGRAM: www.instagram.com/luigi_analytics</h3>
+<br />
 
-<h3 align="center">¿Hablas español? SIGUEME EN YOUTUBE: www.youtube.com/@luigi_analytics</h3>
+<h2 align="left">Project Index</h3>
+
+- 📊 **[A/B Testing - Adobe Creative Cloud](https://github.com/luisezequielmunoz/ab-testing-adobe/)** 
+- 🌎 **[KMeans - Unsupervised Learning - Macroeconomics Country Clustering](https://github.com/luisezequielmunoz/KMeans-Country-Clustering-Project)**  
+- 💳 **[Typical Fraud Credit Card Detection - KNN approach](https://github.com/luisezequielmunoz/Fraud-Credit-Card-Project)** 
+- 🗄 **[People Analytics - Absenteeism - Data Cleaning](https://github.com/luisezequielmunoz/People-Analytics-Absenteeism-Data-Cleaning)** 
 
 <br />
 
-
-<h2 align="left">Languages & Tools:</h3>
+<h2 align="left">Languages & Tools</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <br />
@@ -35,3 +39,9 @@
 - 🙋🏼‍♂️ Networking? Add me on LinkedIn: www.linkedin.com/in/luisezequielmunoz
 
 - 🇩🇪 Based in Berlin, Germany - But happy to relocate if necessary ✈️
+
+---
+
+<h3 align="center">¿Hablas español? SIGUEME EN INSTAGRAM: www.instagram.com/luigi_analytics</h3>
+
+<h3 align="center">¿Hablas español? SIGUEME EN YOUTUBE: www.youtube.com/@luigi_analytics</h3>
