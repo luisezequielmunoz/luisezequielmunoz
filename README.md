@@ -1,18 +1,18 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br />
 <h1 align="center">🙋🏼‍♂️ Hey, hey, hey. This is Luis!</h1>
-<h3 align="center">A passionate Data Scientist and Data Content Creator 🚀</h3>
+<h3 align="center">A passionate Full Stack Data Scientist and Data Content Creator 🚀</h3>
 <br />
 
 <h2 align="left">More about me</h3>
 
 👋🏻 *Hello, Hola, Ciao, Bonjour.* 
 
-📚 My name is Luis Munoz and I am a Data Scientist / Analyst, born and raised in Argentina and currently based in Germany. Having graduated with a **Masters Degree in Management & Data Analytics**, in addition to my **Bachelors in Economics & Accounting** (both with the highest academic distinctions), I have solidified theoretical concepts related to Data Science field. 
+📚 My name is Luis and I am a Full Stack Data Scientist, born and raised in Argentina and currently based in London, UK. Having graduated with a **Masters Degree in Management & Data Analytics**, in addition to my **Bachelors in Economics & Accounting** (both with the highest academic distinctions), I have solidified theoretical concepts related to Data Science field. 
 
-👨🏼‍💻 Furthermore, I have been working in the IT industry for the past 4 years, during which time I have gained considerable experience working globally with different stakeholders while defining the problem, collecting and querying data, developing machine learning models, data analysis and visualization. 
+👨🏼‍💻 Furthermore, I have been working in the IT industry for the past 4 years, during which time I have gained considerable experience working globally with different stakeholders while defining the problem, collecting and querying data, developing end-to-end ML projects, data analysis and visualization. 
 
-🎥 On the other hand, I really enjoy teaching and connecting with people. For that reason I started my journey as **Data Content Creator**, reaching up to **15.000 followers** on instagram and currently developing my YouTube channel. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
+🎥 On the other hand, I really enjoy teaching and connecting with people. For that reason I started my journey as **Data Content Creator**, reaching up to **15.000 followers** on several platforms like TowardsDataScience, Youtube, Instagram. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
 
 <br />
 
@@ -38,7 +38,7 @@
 
 - 🙋🏼‍♂️ Networking? Add me on LinkedIn: www.linkedin.com/in/luisezequielmunoz
 
-- 🇩🇪 Based in Berlin, Germany - But happy to relocate if necessary ✈️
+- 🇬🇧 Based in London, UK
 
 ---
 
