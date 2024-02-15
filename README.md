@@ -8,7 +8,7 @@
 
 👋🏻 *Hello, Hola, Ciao, Bonjour.* 
 
-📚 My name is Luis and I am a Full Stack Data Scientist, born and raised in Argentina and currently based in London, UK. Having graduated with a **Masters Degree in Management & Data Analytics**, in addition to my **Bachelors in Economics & Accounting** (both with the highest academic distinctions), I have solidified theoretical concepts related to Data Science field. 
+📚 My name is Luis and I am a Full Stack Data Scientist, born and raised in Argentina and currently based in London, UK. Having graduated with a **Masters Degree in Data Science & Management**, in addition to my **Bachelors in Economics** (both with the highest academic distinctions), I have solidified theoretical concepts related to Data Science field. 
 
 👨🏼‍💻 Furthermore, I have been working in the IT industry for the past 4 years, during which time I have gained considerable experience working globally with different stakeholders while defining the problem, collecting and querying data, developing end-to-end ML projects, data analysis and visualization. 
 
