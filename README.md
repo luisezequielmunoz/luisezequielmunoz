@@ -8,11 +8,11 @@
 
 👋🏻 *Hello, Hola, Ciao, Bonjour.* 
 
-📚 My name is Luis and I am a Full Stack Data Scientist, born and raised in Argentina and currently based in London, UK. Having graduated with a **Masters Degree in Data Science & Management**, in addition to my **Bachelors in Economics** (both with the highest academic distinctions), I have solidified theoretical concepts related to Data Science field. 
+📚 My name is Luis and I am a **Full Stack Data Scientist** based in London, UK. I have **over 6 years of experience in Product and Marketing**; specializing in **experimentation** and **causal inference**, executing data-driven solutions within Product and Marketing Analytics domains. Graduated with a **Master in Management & Data Science** and a **Bachelor's in Economics**, both with academic distinctions. 
 
-👨🏼‍💻 Furthermore, I have been working in the IT industry for the past 4 years, during which time I have gained considerable experience working globally with different stakeholders while defining the problem, collecting and querying data, developing end-to-end ML projects, data analysis and visualization. 
+👨🏼‍💻 Furthermore, I have been working in the IT industry for the past 6 years, during which time I have gained considerable experience working globally with different stakeholders while defining the problem, collecting and querying data, developing end-to-end ML projects, data analysis and visualization. 
 
-🎥 On the other hand, I really enjoy teaching and connecting with people. For that reason I started my journey as **Data Content Creator**, reaching up to **15.000 followers** on several platforms like TowardsDataScience, Youtube, Instagram. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
+🎥 On the other hand, I really enjoy teaching and connecting with people. For that reason I started my journey as **Data Content Creator**, reaching up to **30.000 followers** on several platforms like TowardsDataScience, Youtube, Instagram. My portfolio is a representation of some projects I usually prepare to share with my online audience, guiding them from the very beginning of the project (finding diverse datasets), defining the scope of the problem, running some exploratory analysis and finally shaping ML models. 
 
 <br />
 
@@ -32,7 +32,7 @@
 
 <h2 align="left">Reach out to me!</h3>
 
-- 🚀 I’m currently working at **Delivery Hero**
+- 🚀 I’m currently working at **Expedia Group**
 
 - 📫 Email me at **luisezequielmunoz@gmail.com**
 
